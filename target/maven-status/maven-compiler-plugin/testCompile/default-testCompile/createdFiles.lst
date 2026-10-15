@@ -1,0 +1,6 @@
+com\everyday\ApplicationIntegrationTest.class
+com\everyday\TaskManagementTest.class
+com\everyday\DailyCalculationTest.class
+com\everyday\BackupRestoreTest.class
+com\everyday\StreakEngineTest.class
+com\everyday\ProjectAndHistoryTest.class
